@@ -100,7 +100,7 @@ if (mq.matches) {
 }
 
 const typed = new Typed(".multiple-text", {
-  strings: ["Product Manager", "Product Manager"],
+  strings: ["Full Stack Developer", "MERN Stack Developer"],
   typeSpeed: 100,
   backSpeed: 100,
   backDelay: 1000,
